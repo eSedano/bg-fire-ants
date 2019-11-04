@@ -1,2 +1,2 @@
-# bg-ikenga
+# Ikenga
 Rules for Ikenga
