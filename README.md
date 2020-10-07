@@ -13,6 +13,11 @@ Place the game board in between the players with vertices pointing toward them. 
 ## How to play
 ### Actions
 In their turn, a player can take one of four actions:
-#### Place a new stone in
+#### Place a new stone
+#### Move a stone
+#### Slide a stone in play
+#### Move a warrior
+
 ### Capture
+Warriors are captured by surrounding them on two sides.
 ## End of the game
