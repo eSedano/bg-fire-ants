@@ -29,6 +29,8 @@ On their turn, players take one of the following actions:
 * **Move a stone**: Move a stone from a buffer space or a regular space according to the stones' rules of movement.
 * **Move a queen**: Move a queen on a regular space according to the queens' rules of movement.
 
+A player may not perform a movement that leaves the board state unchanged.
+
 ### Rules of movement
 
 #### Stones
