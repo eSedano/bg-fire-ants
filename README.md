@@ -25,7 +25,7 @@ Place the game board in between the players. Each player chooses the color to pl
 ### Actions
 On their turn, players take one of the following actions:
 * **Place a new stone**: Bring a stone from the reserve to an unoccupied buffer space.
-* **Change buffer space**: Move a stone in a buffer space to another, unoccupied one.
+* **Change buffer space**: Move one of their stones in a buffer space to another, unoccupied one.
 * **Move a stone**: Move a stone from a buffer space or a regular space according to the stones' rules of movement.
 * **Move a queen**: Move a queen on a regular space according to the queens' rules of movement.
 
