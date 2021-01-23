@@ -11,7 +11,7 @@ In **March of the fire ants**, two players compete to be the first one to captut
 * 20 stones (10 white, 10 black)
 * 4 queens (2 white, 2 black)
 ## Setup
-Place the game board in between the players. Each player chooses the color to play with. Place each players' queens in the designated spaces as shown in the image below, and all 10 stones close to them. These stones are their reserve. White moves first.
+Place the game board in between the players. Each player chooses the color to play with. Place each players' queens in the designated spaces as shown in the image below, and all 10 stones close to them. These stones are their reserve. White plays first.
 
 <img src="initial.png" alt="Initial setup" height="300"/>
 
