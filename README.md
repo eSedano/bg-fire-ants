@@ -52,7 +52,7 @@ Queens also move in a straight line across the edges of the hexes. Unlike stones
 
 ### Capture
 A queen is captured when at least one of the following two conditions is met:
-* Two pieces (regardless of whether they are queens or stones) of the opposed color surronds two of the queens' sides in a straight line (the queen is "sandwiched"). A queen moving in between two opponent pieces does not cause the queen to be caputed. Pieces surrounding a queen must be placed in regular spaces (i.e. pieces in buffer spaces are not taken into account when determining if a queen is captured) In the figure below, piece A moves and captures tue black queen.
+* Two pieces (regardless of whether they are queens or stones) of the opposed color surronds two of the queens' sides in a straight line (the queen is "sandwiched"). A queen moving in between two opponent pieces does not cause the queen to be caputed. Pieces surrounding a queen must be placed in regular spaces (i.e. pieces in buffer spaces are not taken into account when determining if a queen is captured) In the figure below, piece A moves and captures the black queen.
 
 <img src="capture1.png" alt="Capture 1" height="300"/>
 
