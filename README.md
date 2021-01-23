@@ -3,7 +3,7 @@
 * 2 players
 * 20 minutes
 ## Introduction
-In **March of the fire ants**, two players compete against each other to be the first one to captute both of their opponent's queens.
+In **March of the fire ants**, two players compete to be the first one to captute both of their opponent's queens.
 ## Components
 <img src="components.png" alt="Game components" height="300"/>
 
