@@ -58,5 +58,8 @@ A queen is captured when at least one of the following two conditions is met:
 
 <img src="capture2.png" alt="Capture 2" height="300"/>
 
+When a queen is captured, the piece is flipped and returned to the owner's reserve as a **regular stone**.
 
 ## End of the game
+
+The game ends when the two queens of one of the players are captured. The player with queens remaining on the board is the winner.
