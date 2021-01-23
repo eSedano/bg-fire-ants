@@ -1,9 +1,9 @@
-# Ikenga
+# March of the fire ants
 * Abstract strategy
 * 2 players
 * 20 minutes
 ## Introduction
-In the Igbo language, ikenga literally means _strength of movement_. In this game, both players compete against each other to be the first one to captute both of their opponent's queens.
+In **March of the fire ants**, both players compete against each other to be the first one to captute both of their opponent's queens.
 ## Components
 <img src="components.png" alt="Game components" height="300"/>
 
