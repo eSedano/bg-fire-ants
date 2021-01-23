@@ -49,5 +49,9 @@ Queens also move in a straight line across the edges of the hexes. Unlike stones
 <img src="queenmove.png" alt="Move for queen" height="300"/>
 
 ### Capture
-Warriors are captured by surrounding them on two sides.
+A queen is captured when at least one of the following two conditions is met:
+* Two pieces (regardless of whether they are queens or stones) of the opposed color surronds two of the queens' sides in a straight line (the queen is "sandwiched"). In the figure below, piece A moves and captures tue black queen.
+
+<img src="capture1.png" alt="Capture 1" height="300"/>
+
 ## End of the game
