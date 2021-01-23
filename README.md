@@ -36,11 +36,17 @@ Stones move in a straight line across the edges of the hexes, moving as far as p
 
 The following figure shows all possible moves for stone A, which would finish its movement in any of the spaces marked with an X.
 
-<img src="stonemove1.png" alt="Initial setup" height="300"/>
+<img src="stonemove1.png" alt="Move for stone 1" height="300"/>
 
-The figure below shows all possible moves for stone B which, starting from a buffer space, could finish its movement in any of the spaces marked with an X.
+The figure below shows all possible moves for stone A which, starting from a buffer space, could finish its movement in any of the spaces marked with an X.
 
-<img src="stonemove2.png" alt="Initial setup" height="300"/>
+<img src="stonemove2.png" alt="Move for stone 2" height="300"/>
+
+### Queens
+
+Queens also move in a straight line across the edges of the hexes. Unlike stones, queens are allowed to finish their movement on any regular space along the line of movement. The figure below shows all possible destination spaces for queen A marked with an X. 
+
+<img src="queenmove.png" alt="Move for queen" height="300"/>
 
 ### Capture
 Warriors are captured by surrounding them on two sides.
