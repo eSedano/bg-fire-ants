@@ -65,3 +65,9 @@ When a queen is captured, the piece is flipped and returned to the owner's reser
 ## End of the game
 
 The game ends when the two queens of one of the players are captured. The player with queens remaining on the board is the winner.
+
+## Possible changes based on feedback
+* Add rules for ties.
+* Clarify that captured queens are removed from the board and turned to regular stones in the reserve.
+* Remove option to move pieces from one buffer space to another one.
+* Remove ability of queens to be used for capture.
