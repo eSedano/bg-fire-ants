@@ -52,7 +52,7 @@ Queens also move in a straight line across the edges of the hexes. Unlike stones
 
 ### Capture
 A queen is captured when at least one of the following two conditions is met:
-* Two pieces (regardless of whether they are queens or stones) of the opposed color surronds two of the queens' sides in a straight line (the queen is "sandwiched"). A queen moving in between two opponent pieces does not cause the queen to be caputed. Pieces surrounding a queen must be placed in regular spaces (i.e. pieces in buffer spaces are not taken into account when determining if a queen is captured) In the figure below, piece A moves and captures the black queen.
+* Two stones (but not queens) of the opposed color surronds two of the queens' sides in a straight line (the queen is "sandwiched"). A queen moving in between two opponent pieces does not cause the queen to be caputed. Pieces surrounding a queen must be placed in regular spaces (i.e. pieces in buffer spaces are not taken into account when determining if a queen is captured) In the figure below, piece A moves and captures the black queen.
 
 <img src="capture1.png" alt="Capture 1" height="300"/>
 
@@ -64,11 +64,9 @@ When a queen is captured, the piece is flipped and returned to the owner's reser
 
 ## End of the game
 
-The game ends when the two queens of one of the players are captured. The player with queens remaining on the board is the winner.
+The game ends when the two queens of one of the players are captured. The player with queens remaining on the board is the winner. If no queens remain on the board, the game ends in a tie.
 
 ## Possible changes based on feedback
 The following items describe changes to the rules or the gameplay based on feedback received from testers. The changes are either \[F]ixes to the rules or \[V]ariants to the game:
-* \[F] Add rules for ties.
 * \[F] Clarify that captured queens are removed from the board and turned to regular stones in the reserve.
 * \[V] Remove option to move pieces from one buffer space to another one.
-* \[V] Remove ability of queens to be used for capture.
